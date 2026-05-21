@@ -8,6 +8,6 @@ all you will need is your first guide name, the side of the jungle (R right or L
 
 so if u are really lazy u can open all_possibilities.txt, search for your info using this:
 
-Name: {} | Size: {} | Jungle side: {}
+Name: BLANK | Size: BLANK | Jungle side: BLANK
 
-fill in the blanks (remove the brackets), use ctrl + f and search it
+fill in the blanks, use ctrl + f and search it
