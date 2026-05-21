@@ -1,0 +1,1947 @@
+template:
+Name: {} | Size: {} | Jungle side: {}
+fill in the blanks, use ctrl + f and search it
+
+Number 1:
+!!!!World Info!!!!
+Name: Joe | Size: S | Jungle side: R | Code: 0.0
+
+!!!!Aether/Shimmer Location!!!!
+3276.0 East
+
+----
+
+Number 2:
+!!!!World Info!!!!
+Name: Joe | Size: S | Jungle side: L | Code: 0.0
+
+!!!!Aether/Shimmer Location!!!!
+3800.0 West
+
+----
+
+Number 3:
+!!!!World Info!!!!
+Name: Joe | Size: M | Jungle side: R | Code: 0.0
+
+!!!!Aether/Shimmer Location!!!!
+4992.0 East
+
+----
+
+Number 4:
+!!!!World Info!!!!
+Name: Joe | Size: M | Jungle side: L | Code: 0.0
+
+!!!!Aether/Shimmer Location!!!!
+6000.0 West
+
+----
+
+Number 5:
+!!!!World Info!!!!
+Name: Joe | Size: L | Jungle side: R | Code: 0.0
+
+!!!!Aether/Shimmer Location!!!!
+6552.0 East
+
+----
+
+Number 6:
+!!!!World Info!!!!
+Name: Joe | Size: L | Jungle side: L | Code: 0.0
+
+!!!!Aether/Shimmer Location!!!!
+8000.0 West
+
+----
+
+Number 7:
+!!!!World Info!!!!
+Name: Connor | Size: S | Jungle side: R | Code: 0.0278
+
+!!!!Aether/Shimmer Location!!!!
+3290.5672 East
+
+----
+
+Number 8:
+!!!!World Info!!!!
+Name: Connor | Size: S | Jungle side: L | Code: 0.0278
+
+!!!!Aether/Shimmer Location!!!!
+3785.4328 West
+
+----
+
+Number 9:
+!!!!World Info!!!!
+Name: Connor | Size: M | Jungle side: R | Code: 0.0278
+
+!!!!Aether/Shimmer Location!!!!
+5020.0224 East
+
+----
+
+Number 10:
+!!!!World Info!!!!
+Name: Connor | Size: M | Jungle side: L | Code: 0.0278
+
+!!!!Aether/Shimmer Location!!!!
+5971.9776 West
+
+----
+
+Number 11:
+!!!!World Info!!!!
+Name: Connor | Size: L | Jungle side: R | Code: 0.0278
+
+!!!!Aether/Shimmer Location!!!!
+6592.2544 East
+
+----
+
+Number 12:
+!!!!World Info!!!!
+Name: Connor | Size: L | Jungle side: L | Code: 0.0278
+
+!!!!Aether/Shimmer Location!!!!
+7959.7456 West
+
+----
+
+Number 13:
+!!!!World Info!!!!
+Name: Tanner | Size: S | Jungle side: R | Code: 0.0556
+
+!!!!Aether/Shimmer Location!!!!
+3305.1344 East
+
+----
+
+Number 14:
+!!!!World Info!!!!
+Name: Tanner | Size: S | Jungle side: L | Code: 0.0556
+
+!!!!Aether/Shimmer Location!!!!
+3770.8656 West
+
+----
+
+Number 15:
+!!!!World Info!!!!
+Name: Tanner | Size: M | Jungle side: R | Code: 0.0556
+
+!!!!Aether/Shimmer Location!!!!
+5048.0448 East
+
+----
+
+Number 16:
+!!!!World Info!!!!
+Name: Tanner | Size: M | Jungle side: L | Code: 0.0556
+
+!!!!Aether/Shimmer Location!!!!
+5943.9552 West
+
+----
+
+Number 17:
+!!!!World Info!!!!
+Name: Tanner | Size: L | Jungle side: R | Code: 0.0556
+
+!!!!Aether/Shimmer Location!!!!
+6632.5088 East
+
+----
+
+Number 18:
+!!!!World Info!!!!
+Name: Tanner | Size: L | Jungle side: L | Code: 0.0556
+
+!!!!Aether/Shimmer Location!!!!
+7919.4912 West
+
+----
+
+Number 19:
+!!!!World Info!!!!
+Name: Wyatt | Size: S | Jungle side: R | Code: 0.0833
+
+!!!!Aether/Shimmer Location!!!!
+3319.6492 East
+
+----
+
+Number 20:
+!!!!World Info!!!!
+Name: Wyatt | Size: S | Jungle side: L | Code: 0.0833
+
+!!!!Aether/Shimmer Location!!!!
+3756.3508 West
+
+----
+
+Number 21:
+!!!!World Info!!!!
+Name: Wyatt | Size: M | Jungle side: R | Code: 0.0833
+
+!!!!Aether/Shimmer Location!!!!
+5075.9664 East
+
+----
+
+Number 22:
+!!!!World Info!!!!
+Name: Wyatt | Size: M | Jungle side: L | Code: 0.0833
+
+!!!!Aether/Shimmer Location!!!!
+5916.0336 West
+
+----
+
+Number 23:
+!!!!World Info!!!!
+Name: Wyatt | Size: L | Jungle side: R | Code: 0.0833
+
+!!!!Aether/Shimmer Location!!!!
+6672.6184 East
+
+----
+
+Number 24:
+!!!!World Info!!!!
+Name: Wyatt | Size: L | Jungle side: L | Code: 0.0833
+
+!!!!Aether/Shimmer Location!!!!
+7879.3816 West
+
+----
+
+Number 25:
+!!!!World Info!!!!
+Name: Cody | Size: S | Jungle side: R | Code: 0.1111
+
+!!!!Aether/Shimmer Location!!!!
+3334.2164 East
+
+----
+
+Number 26:
+!!!!World Info!!!!
+Name: Cody | Size: S | Jungle side: L | Code: 0.1111
+
+!!!!Aether/Shimmer Location!!!!
+3741.7836 West
+
+----
+
+Number 27:
+!!!!World Info!!!!
+Name: Cody | Size: M | Jungle side: R | Code: 0.1111
+
+!!!!Aether/Shimmer Location!!!!
+5103.9888 East
+
+----
+
+Number 28:
+!!!!World Info!!!!
+Name: Cody | Size: M | Jungle side: L | Code: 0.1111
+
+!!!!Aether/Shimmer Location!!!!
+5888.0112 West
+
+----
+
+Number 29:
+!!!!World Info!!!!
+Name: Cody | Size: L | Jungle side: R | Code: 0.1111
+
+!!!!Aether/Shimmer Location!!!!
+6712.8728 East
+
+----
+
+Number 30:
+!!!!World Info!!!!
+Name: Cody | Size: L | Jungle side: L | Code: 0.1111
+
+!!!!Aether/Shimmer Location!!!!
+7839.1272 West
+
+----
+
+Number 31:
+!!!!World Info!!!!
+Name: Levi | Size: S | Jungle side: R | Code: 0.1389
+
+!!!!Aether/Shimmer Location!!!!
+3348.7836 East
+
+----
+
+Number 32:
+!!!!World Info!!!!
+Name: Levi | Size: S | Jungle side: L | Code: 0.1389
+
+!!!!Aether/Shimmer Location!!!!
+3727.2164 West
+
+----
+
+Number 33:
+!!!!World Info!!!!
+Name: Levi | Size: M | Jungle side: R | Code: 0.1389
+
+!!!!Aether/Shimmer Location!!!!
+5132.0112 East
+
+----
+
+Number 34:
+!!!!World Info!!!!
+Name: Levi | Size: M | Jungle side: L | Code: 0.1389
+
+!!!!Aether/Shimmer Location!!!!
+5859.9888 West
+
+----
+
+Number 35:
+!!!!World Info!!!!
+Name: Levi | Size: L | Jungle side: R | Code: 0.1389
+
+!!!!Aether/Shimmer Location!!!!
+6753.1272 East
+
+----
+
+Number 36:
+!!!!World Info!!!!
+Name: Levi | Size: L | Jungle side: L | Code: 0.1389
+
+!!!!Aether/Shimmer Location!!!!
+7798.8728 West
+
+----
+
+Number 37:
+!!!!World Info!!!!
+Name: Luke | Size: S | Jungle side: R | Code: 0.1667
+
+!!!!Aether/Shimmer Location!!!!
+3363.3508 East
+
+----
+
+Number 38:
+!!!!World Info!!!!
+Name: Luke | Size: S | Jungle side: L | Code: 0.1667
+
+!!!!Aether/Shimmer Location!!!!
+3712.6492 West
+
+----
+
+Number 39:
+!!!!World Info!!!!
+Name: Luke | Size: M | Jungle side: R | Code: 0.1667
+
+!!!!Aether/Shimmer Location!!!!
+5160.0336 East
+
+----
+
+Number 40:
+!!!!World Info!!!!
+Name: Luke | Size: M | Jungle side: L | Code: 0.1667
+
+!!!!Aether/Shimmer Location!!!!
+5831.9664 West
+
+----
+
+Number 41:
+!!!!World Info!!!!
+Name: Luke | Size: L | Jungle side: R | Code: 0.1667
+
+!!!!Aether/Shimmer Location!!!!
+6793.3816 East
+
+----
+
+Number 42:
+!!!!World Info!!!!
+Name: Luke | Size: L | Jungle side: L | Code: 0.1667
+
+!!!!Aether/Shimmer Location!!!!
+7758.6184 West
+
+----
+
+Number 43:
+!!!!World Info!!!!
+Name: Jack | Size: S | Jungle side: R | Code: 0.1944
+
+!!!!Aether/Shimmer Location!!!!
+3377.8656 East
+
+----
+
+Number 44:
+!!!!World Info!!!!
+Name: Jack | Size: S | Jungle side: L | Code: 0.1944
+
+!!!!Aether/Shimmer Location!!!!
+3698.1344 West
+
+----
+
+Number 45:
+!!!!World Info!!!!
+Name: Jack | Size: M | Jungle side: R | Code: 0.1944
+
+!!!!Aether/Shimmer Location!!!!
+5187.9552 East
+
+----
+
+Number 46:
+!!!!World Info!!!!
+Name: Jack | Size: M | Jungle side: L | Code: 0.1944
+
+!!!!Aether/Shimmer Location!!!!
+5804.0448 West
+
+----
+
+Number 47:
+!!!!World Info!!!!
+Name: Jack | Size: L | Jungle side: R | Code: 0.1944
+
+!!!!Aether/Shimmer Location!!!!
+6833.4912 East
+
+----
+
+Number 48:
+!!!!World Info!!!!
+Name: Jack | Size: L | Jungle side: L | Code: 0.1944
+
+!!!!Aether/Shimmer Location!!!!
+7718.5088 West
+
+----
+
+Number 49:
+!!!!World Info!!!!
+Name: Scott | Size: S | Jungle side: R | Code: 0.2222
+
+!!!!Aether/Shimmer Location!!!!
+3392.4328 East
+
+----
+
+Number 50:
+!!!!World Info!!!!
+Name: Scott | Size: S | Jungle side: L | Code: 0.2222
+
+!!!!Aether/Shimmer Location!!!!
+3683.5672 West
+
+----
+
+Number 51:
+!!!!World Info!!!!
+Name: Scott | Size: M | Jungle side: R | Code: 0.2222
+
+!!!!Aether/Shimmer Location!!!!
+5215.9776 East
+
+----
+
+Number 52:
+!!!!World Info!!!!
+Name: Scott | Size: M | Jungle side: L | Code: 0.2222
+
+!!!!Aether/Shimmer Location!!!!
+5776.0224 West
+
+----
+
+Number 53:
+!!!!World Info!!!!
+Name: Scott | Size: L | Jungle side: R | Code: 0.2222
+
+!!!!Aether/Shimmer Location!!!!
+6873.7456 East
+
+----
+
+Number 54:
+!!!!World Info!!!!
+Name: Scott | Size: L | Jungle side: L | Code: 0.2222
+
+!!!!Aether/Shimmer Location!!!!
+7678.2544 West
+
+----
+
+Number 55:
+!!!!World Info!!!!
+Name: Logan | Size: S | Jungle side: R | Code: 0.25
+
+!!!!Aether/Shimmer Location!!!!
+3407.0 East
+
+----
+
+Number 56:
+!!!!World Info!!!!
+Name: Logan | Size: S | Jungle side: L | Code: 0.25
+
+!!!!Aether/Shimmer Location!!!!
+3669.0 West
+
+----
+
+Number 57:
+!!!!World Info!!!!
+Name: Logan | Size: M | Jungle side: R | Code: 0.25
+
+!!!!Aether/Shimmer Location!!!!
+5244.0 East
+
+----
+
+Number 58:
+!!!!World Info!!!!
+Name: Logan | Size: M | Jungle side: L | Code: 0.25
+
+!!!!Aether/Shimmer Location!!!!
+5748.0 West
+
+----
+
+Number 59:
+!!!!World Info!!!!
+Name: Logan | Size: L | Jungle side: R | Code: 0.25
+
+!!!!Aether/Shimmer Location!!!!
+6914.0 East
+
+----
+
+Number 60:
+!!!!World Info!!!!
+Name: Logan | Size: L | Jungle side: L | Code: 0.25
+
+!!!!Aether/Shimmer Location!!!!
+7638.0 West
+
+----
+
+Number 61:
+!!!!World Info!!!!
+Name: Cole | Size: S | Jungle side: R | Code: 0.2778
+
+!!!!Aether/Shimmer Location!!!!
+3421.5672 East
+
+----
+
+Number 62:
+!!!!World Info!!!!
+Name: Cole | Size: S | Jungle side: L | Code: 0.2778
+
+!!!!Aether/Shimmer Location!!!!
+3654.4328 West
+
+----
+
+Number 63:
+!!!!World Info!!!!
+Name: Cole | Size: M | Jungle side: R | Code: 0.2778
+
+!!!!Aether/Shimmer Location!!!!
+5272.0224 East
+
+----
+
+Number 64:
+!!!!World Info!!!!
+Name: Cole | Size: M | Jungle side: L | Code: 0.2778
+
+!!!!Aether/Shimmer Location!!!!
+5719.9776 West
+
+----
+
+Number 65:
+!!!!World Info!!!!
+Name: Cole | Size: L | Jungle side: R | Code: 0.2778
+
+!!!!Aether/Shimmer Location!!!!
+6954.2544 East
+
+----
+
+Number 66:
+!!!!World Info!!!!
+Name: Cole | Size: L | Jungle side: L | Code: 0.2778
+
+!!!!Aether/Shimmer Location!!!!
+7597.7456 West
+
+----
+
+Number 67:
+!!!!World Info!!!!
+Name: Asher | Size: S | Jungle side: R | Code: 0.3056
+
+!!!!Aether/Shimmer Location!!!!
+3436.1344 East
+
+----
+
+Number 68:
+!!!!World Info!!!!
+Name: Asher | Size: S | Jungle side: L | Code: 0.3056
+
+!!!!Aether/Shimmer Location!!!!
+3639.8656 West
+
+----
+
+Number 69:
+!!!!World Info!!!!
+Name: Asher | Size: M | Jungle side: R | Code: 0.3056
+
+!!!!Aether/Shimmer Location!!!!
+5300.0448 East
+
+----
+
+Number 70:
+!!!!World Info!!!!
+Name: Asher | Size: M | Jungle side: L | Code: 0.3056
+
+!!!!Aether/Shimmer Location!!!!
+5691.9552 West
+
+----
+
+Number 71:
+!!!!World Info!!!!
+Name: Asher | Size: L | Jungle side: R | Code: 0.3056
+
+!!!!Aether/Shimmer Location!!!!
+6994.5088 East
+
+----
+
+Number 72:
+!!!!World Info!!!!
+Name: Asher | Size: L | Jungle side: L | Code: 0.3056
+
+!!!!Aether/Shimmer Location!!!!
+7557.4912 West
+
+----
+
+Number 73:
+!!!!World Info!!!!
+Name: Bradley | Size: S | Jungle side: R | Code: 0.3333
+
+!!!!Aether/Shimmer Location!!!!
+3450.6492 East
+
+----
+
+Number 74:
+!!!!World Info!!!!
+Name: Bradley | Size: S | Jungle side: L | Code: 0.3333
+
+!!!!Aether/Shimmer Location!!!!
+3625.3508 West
+
+----
+
+Number 75:
+!!!!World Info!!!!
+Name: Bradley | Size: M | Jungle side: R | Code: 0.3333
+
+!!!!Aether/Shimmer Location!!!!
+5327.9664 East
+
+----
+
+Number 76:
+!!!!World Info!!!!
+Name: Bradley | Size: M | Jungle side: L | Code: 0.3333
+
+!!!!Aether/Shimmer Location!!!!
+5664.0336 West
+
+----
+
+Number 77:
+!!!!World Info!!!!
+Name: Bradley | Size: L | Jungle side: R | Code: 0.3333
+
+!!!!Aether/Shimmer Location!!!!
+7034.6184 East
+
+----
+
+Number 78:
+!!!!World Info!!!!
+Name: Bradley | Size: L | Jungle side: L | Code: 0.3333
+
+!!!!Aether/Shimmer Location!!!!
+7517.3816 West
+
+----
+
+Number 79:
+!!!!World Info!!!!
+Name: Jacob | Size: S | Jungle side: R | Code: 0.3611
+
+!!!!Aether/Shimmer Location!!!!
+3465.2164 East
+
+----
+
+Number 80:
+!!!!World Info!!!!
+Name: Jacob | Size: S | Jungle side: L | Code: 0.3611
+
+!!!!Aether/Shimmer Location!!!!
+3610.7836 West
+
+----
+
+Number 81:
+!!!!World Info!!!!
+Name: Jacob | Size: M | Jungle side: R | Code: 0.3611
+
+!!!!Aether/Shimmer Location!!!!
+5355.9888 East
+
+----
+
+Number 82:
+!!!!World Info!!!!
+Name: Jacob | Size: M | Jungle side: L | Code: 0.3611
+
+!!!!Aether/Shimmer Location!!!!
+5636.0112 West
+
+----
+
+Number 83:
+!!!!World Info!!!!
+Name: Jacob | Size: L | Jungle side: R | Code: 0.3611
+
+!!!!Aether/Shimmer Location!!!!
+7074.8728 East
+
+----
+
+Number 84:
+!!!!World Info!!!!
+Name: Jacob | Size: L | Jungle side: L | Code: 0.3611
+
+!!!!Aether/Shimmer Location!!!!
+7477.1272 West
+
+----
+
+Number 85:
+!!!!World Info!!!!
+Name: Garrett | Size: S | Jungle side: R | Code: 0.3889
+
+!!!!Aether/Shimmer Location!!!!
+3479.7836 East
+
+----
+
+Number 86:
+!!!!World Info!!!!
+Name: Garrett | Size: S | Jungle side: L | Code: 0.3889
+
+!!!!Aether/Shimmer Location!!!!
+3596.2164 West
+
+----
+
+Number 87:
+!!!!World Info!!!!
+Name: Garrett | Size: M | Jungle side: R | Code: 0.3889
+
+!!!!Aether/Shimmer Location!!!!
+5384.0112 East
+
+----
+
+Number 88:
+!!!!World Info!!!!
+Name: Garrett | Size: M | Jungle side: L | Code: 0.3889
+
+!!!!Aether/Shimmer Location!!!!
+5607.9888 West
+
+----
+
+Number 89:
+!!!!World Info!!!!
+Name: Garrett | Size: L | Jungle side: R | Code: 0.3889
+
+!!!!Aether/Shimmer Location!!!!
+7115.1272 East
+
+----
+
+Number 90:
+!!!!World Info!!!!
+Name: Garrett | Size: L | Jungle side: L | Code: 0.3889
+
+!!!!Aether/Shimmer Location!!!!
+7436.8728 West
+
+----
+
+Number 91:
+!!!!World Info!!!!
+Name: Dylan | Size: S | Jungle side: R | Code: 0.4167
+
+!!!!Aether/Shimmer Location!!!!
+3494.3508 East
+
+----
+
+Number 92:
+!!!!World Info!!!!
+Name: Dylan | Size: S | Jungle side: L | Code: 0.4167
+
+!!!!Aether/Shimmer Location!!!!
+3581.6492 West
+
+----
+
+Number 93:
+!!!!World Info!!!!
+Name: Dylan | Size: M | Jungle side: R | Code: 0.4167
+
+!!!!Aether/Shimmer Location!!!!
+5412.0336 East
+
+----
+
+Number 94:
+!!!!World Info!!!!
+Name: Dylan | Size: M | Jungle side: L | Code: 0.4167
+
+!!!!Aether/Shimmer Location!!!!
+5579.9664 West
+
+----
+
+Number 95:
+!!!!World Info!!!!
+Name: Dylan | Size: L | Jungle side: R | Code: 0.4167
+
+!!!!Aether/Shimmer Location!!!!
+7155.3816 East
+
+----
+
+Number 96:
+!!!!World Info!!!!
+Name: Dylan | Size: L | Jungle side: L | Code: 0.4167
+
+!!!!Aether/Shimmer Location!!!!
+7396.6184 West
+
+----
+
+Number 97:
+!!!!World Info!!!!
+Name: Maxwell | Size: S | Jungle side: R | Code: 0.4444
+
+!!!!Aether/Shimmer Location!!!!
+3508.8656 East
+
+----
+
+Number 98:
+!!!!World Info!!!!
+Name: Maxwell | Size: S | Jungle side: L | Code: 0.4444
+
+!!!!Aether/Shimmer Location!!!!
+3567.1344 West
+
+----
+
+Number 99:
+!!!!World Info!!!!
+Name: Maxwell | Size: M | Jungle side: R | Code: 0.4444
+
+!!!!Aether/Shimmer Location!!!!
+5439.9552 East
+
+----
+
+Number 100:
+!!!!World Info!!!!
+Name: Maxwell | Size: M | Jungle side: L | Code: 0.4444
+
+!!!!Aether/Shimmer Location!!!!
+5552.0448 West
+
+----
+
+Number 101:
+!!!!World Info!!!!
+Name: Maxwell | Size: L | Jungle side: R | Code: 0.4444
+
+!!!!Aether/Shimmer Location!!!!
+7195.4912 East
+
+----
+
+Number 102:
+!!!!World Info!!!!
+Name: Maxwell | Size: L | Jungle side: L | Code: 0.4444
+
+!!!!Aether/Shimmer Location!!!!
+7356.5088 West
+
+----
+
+Number 103:
+!!!!World Info!!!!
+Name: Steve | Size: S | Jungle side: R | Code: 0.4722
+
+!!!!Aether/Shimmer Location!!!!
+3523.4328 East
+
+----
+
+Number 104:
+!!!!World Info!!!!
+Name: Steve | Size: S | Jungle side: L | Code: 0.4722
+
+!!!!Aether/Shimmer Location!!!!
+3552.5672 West
+
+----
+
+Number 105:
+!!!!World Info!!!!
+Name: Steve | Size: M | Jungle side: R | Code: 0.4722
+
+!!!!Aether/Shimmer Location!!!!
+5467.9776 East
+
+----
+
+Number 106:
+!!!!World Info!!!!
+Name: Steve | Size: M | Jungle side: L | Code: 0.4722
+
+!!!!Aether/Shimmer Location!!!!
+5524.0224 West
+
+----
+
+Number 107:
+!!!!World Info!!!!
+Name: Steve | Size: L | Jungle side: R | Code: 0.4722
+
+!!!!Aether/Shimmer Location!!!!
+7235.7456 East
+
+----
+
+Number 108:
+!!!!World Info!!!!
+Name: Steve | Size: L | Jungle side: L | Code: 0.4722
+
+!!!!Aether/Shimmer Location!!!!
+7316.2544 West
+
+----
+
+Number 109:
+!!!!World Info!!!!
+Name: Brett | Size: S | Jungle side: R | Code: 0.5
+
+!!!!Aether/Shimmer Location!!!!
+3538.0 East
+
+----
+
+Number 110:
+!!!!World Info!!!!
+Name: Brett | Size: S | Jungle side: L | Code: 0.5
+
+!!!!Aether/Shimmer Location!!!!
+3538.0 West
+
+----
+
+Number 111:
+!!!!World Info!!!!
+Name: Brett | Size: M | Jungle side: R | Code: 0.5
+
+!!!!Aether/Shimmer Location!!!!
+5496.0 East
+
+----
+
+Number 112:
+!!!!World Info!!!!
+Name: Brett | Size: M | Jungle side: L | Code: 0.5
+
+!!!!Aether/Shimmer Location!!!!
+5496.0 West
+
+----
+
+Number 113:
+!!!!World Info!!!!
+Name: Brett | Size: L | Jungle side: R | Code: 0.5
+
+!!!!Aether/Shimmer Location!!!!
+7276.0 East
+
+----
+
+Number 114:
+!!!!World Info!!!!
+Name: Brett | Size: L | Jungle side: L | Code: 0.5
+
+!!!!Aether/Shimmer Location!!!!
+7276.0 West
+
+----
+
+Number 115:
+!!!!World Info!!!!
+Name: Andrew | Size: S | Jungle side: R | Code: 0.5278
+
+!!!!Aether/Shimmer Location!!!!
+3552.5672 East
+
+----
+
+Number 116:
+!!!!World Info!!!!
+Name: Andrew | Size: S | Jungle side: L | Code: 0.5278
+
+!!!!Aether/Shimmer Location!!!!
+3523.4328 West
+
+----
+
+Number 117:
+!!!!World Info!!!!
+Name: Andrew | Size: M | Jungle side: R | Code: 0.5278
+
+!!!!Aether/Shimmer Location!!!!
+5524.0224 East
+
+----
+
+Number 118:
+!!!!World Info!!!!
+Name: Andrew | Size: M | Jungle side: L | Code: 0.5278
+
+!!!!Aether/Shimmer Location!!!!
+5467.9776 West
+
+----
+
+Number 119:
+!!!!World Info!!!!
+Name: Andrew | Size: L | Jungle side: R | Code: 0.5278
+
+!!!!Aether/Shimmer Location!!!!
+7316.2544 East
+
+----
+
+Number 120:
+!!!!World Info!!!!
+Name: Andrew | Size: L | Jungle side: L | Code: 0.5278
+
+!!!!Aether/Shimmer Location!!!!
+7235.7456 West
+
+----
+
+Number 121:
+!!!!World Info!!!!
+Name: Harley | Size: S | Jungle side: R | Code: 0.5556
+
+!!!!Aether/Shimmer Location!!!!
+3567.1344 East
+
+----
+
+Number 122:
+!!!!World Info!!!!
+Name: Harley | Size: S | Jungle side: L | Code: 0.5556
+
+!!!!Aether/Shimmer Location!!!!
+3508.8656 West
+
+----
+
+Number 123:
+!!!!World Info!!!!
+Name: Harley | Size: M | Jungle side: R | Code: 0.5556
+
+!!!!Aether/Shimmer Location!!!!
+5552.0448 East
+
+----
+
+Number 124:
+!!!!World Info!!!!
+Name: Harley | Size: M | Jungle side: L | Code: 0.5556
+
+!!!!Aether/Shimmer Location!!!!
+5439.9552 West
+
+----
+
+Number 125:
+!!!!World Info!!!!
+Name: Harley | Size: L | Jungle side: R | Code: 0.5556
+
+!!!!Aether/Shimmer Location!!!!
+7356.5088 East
+
+----
+
+Number 126:
+!!!!World Info!!!!
+Name: Harley | Size: L | Jungle side: L | Code: 0.5556
+
+!!!!Aether/Shimmer Location!!!!
+7195.4912 West
+
+----
+
+Number 127:
+!!!!World Info!!!!
+Name: Kyle | Size: S | Jungle side: R | Code: 0.5833
+
+!!!!Aether/Shimmer Location!!!!
+3581.6492 East
+
+----
+
+Number 128:
+!!!!World Info!!!!
+Name: Kyle | Size: S | Jungle side: L | Code: 0.5833
+
+!!!!Aether/Shimmer Location!!!!
+3494.3508 West
+
+----
+
+Number 129:
+!!!!World Info!!!!
+Name: Kyle | Size: M | Jungle side: R | Code: 0.5833
+
+!!!!Aether/Shimmer Location!!!!
+5579.9664 East
+
+----
+
+Number 130:
+!!!!World Info!!!!
+Name: Kyle | Size: M | Jungle side: L | Code: 0.5833
+
+!!!!Aether/Shimmer Location!!!!
+5412.0336 West
+
+----
+
+Number 131:
+!!!!World Info!!!!
+Name: Kyle | Size: L | Jungle side: R | Code: 0.5833
+
+!!!!Aether/Shimmer Location!!!!
+7396.6184 East
+
+----
+
+Number 132:
+!!!!World Info!!!!
+Name: Kyle | Size: L | Jungle side: L | Code: 0.5833
+
+!!!!Aether/Shimmer Location!!!!
+7155.3816 West
+
+----
+
+Number 133:
+!!!!World Info!!!!
+Name: Jake | Size: S | Jungle side: R | Code: 0.6111
+
+!!!!Aether/Shimmer Location!!!!
+3596.2164 East
+
+----
+
+Number 134:
+!!!!World Info!!!!
+Name: Jake | Size: S | Jungle side: L | Code: 0.6111
+
+!!!!Aether/Shimmer Location!!!!
+3479.7836 West
+
+----
+
+Number 135:
+!!!!World Info!!!!
+Name: Jake | Size: M | Jungle side: R | Code: 0.6111
+
+!!!!Aether/Shimmer Location!!!!
+5607.9888 East
+
+----
+
+Number 136:
+!!!!World Info!!!!
+Name: Jake | Size: M | Jungle side: L | Code: 0.6111
+
+!!!!Aether/Shimmer Location!!!!
+5384.0112 West
+
+----
+
+Number 137:
+!!!!World Info!!!!
+Name: Jake | Size: L | Jungle side: R | Code: 0.6111
+
+!!!!Aether/Shimmer Location!!!!
+7436.8728 East
+
+----
+
+Number 138:
+!!!!World Info!!!!
+Name: Jake | Size: L | Jungle side: L | Code: 0.6111
+
+!!!!Aether/Shimmer Location!!!!
+7115.1272 West
+
+----
+
+Number 139:
+!!!!World Info!!!!
+Name: Ryan | Size: S | Jungle side: R | Code: 0.6389
+
+!!!!Aether/Shimmer Location!!!!
+3610.7836 East
+
+----
+
+Number 140:
+!!!!World Info!!!!
+Name: Ryan | Size: S | Jungle side: L | Code: 0.6389
+
+!!!!Aether/Shimmer Location!!!!
+3465.2164 West
+
+----
+
+Number 141:
+!!!!World Info!!!!
+Name: Ryan | Size: M | Jungle side: R | Code: 0.6389
+
+!!!!Aether/Shimmer Location!!!!
+5636.0112 East
+
+----
+
+Number 142:
+!!!!World Info!!!!
+Name: Ryan | Size: M | Jungle side: L | Code: 0.6389
+
+!!!!Aether/Shimmer Location!!!!
+5355.9888 West
+
+----
+
+Number 143:
+!!!!World Info!!!!
+Name: Ryan | Size: L | Jungle side: R | Code: 0.6389
+
+!!!!Aether/Shimmer Location!!!!
+7477.1272 East
+
+----
+
+Number 144:
+!!!!World Info!!!!
+Name: Ryan | Size: L | Jungle side: L | Code: 0.6389
+
+!!!!Aether/Shimmer Location!!!!
+7074.8728 West
+
+----
+
+Number 145:
+!!!!World Info!!!!
+Name: Jeffrey | Size: S | Jungle side: R | Code: 0.6667
+
+!!!!Aether/Shimmer Location!!!!
+3625.3508 East
+
+----
+
+Number 146:
+!!!!World Info!!!!
+Name: Jeffrey | Size: S | Jungle side: L | Code: 0.6667
+
+!!!!Aether/Shimmer Location!!!!
+3450.6492 West
+
+----
+
+Number 147:
+!!!!World Info!!!!
+Name: Jeffrey | Size: M | Jungle side: R | Code: 0.6667
+
+!!!!Aether/Shimmer Location!!!!
+5664.0336 East
+
+----
+
+Number 148:
+!!!!World Info!!!!
+Name: Jeffrey | Size: M | Jungle side: L | Code: 0.6667
+
+!!!!Aether/Shimmer Location!!!!
+5327.9664 West
+
+----
+
+Number 149:
+!!!!World Info!!!!
+Name: Jeffrey | Size: L | Jungle side: R | Code: 0.6667
+
+!!!!Aether/Shimmer Location!!!!
+7517.3816 East
+
+----
+
+Number 150:
+!!!!World Info!!!!
+Name: Jeffrey | Size: L | Jungle side: L | Code: 0.6667
+
+!!!!Aether/Shimmer Location!!!!
+7034.6184 West
+
+----
+
+Number 151:
+!!!!World Info!!!!
+Name: Seth | Size: S | Jungle side: R | Code: 0.6944
+
+!!!!Aether/Shimmer Location!!!!
+3639.8656 East
+
+----
+
+Number 152:
+!!!!World Info!!!!
+Name: Seth | Size: S | Jungle side: L | Code: 0.6944
+
+!!!!Aether/Shimmer Location!!!!
+3436.1344 West
+
+----
+
+Number 153:
+!!!!World Info!!!!
+Name: Seth | Size: M | Jungle side: R | Code: 0.6944
+
+!!!!Aether/Shimmer Location!!!!
+5691.9552 East
+
+----
+
+Number 154:
+!!!!World Info!!!!
+Name: Seth | Size: M | Jungle side: L | Code: 0.6944
+
+!!!!Aether/Shimmer Location!!!!
+5300.0448 West
+
+----
+
+Number 155:
+!!!!World Info!!!!
+Name: Seth | Size: L | Jungle side: R | Code: 0.6944
+
+!!!!Aether/Shimmer Location!!!!
+7557.4912 East
+
+----
+
+Number 156:
+!!!!World Info!!!!
+Name: Seth | Size: L | Jungle side: L | Code: 0.6944
+
+!!!!Aether/Shimmer Location!!!!
+6994.5088 West
+
+----
+
+Number 157:
+!!!!World Info!!!!
+Name: Marty | Size: S | Jungle side: R | Code: 0.7222
+
+!!!!Aether/Shimmer Location!!!!
+3654.4328 East
+
+----
+
+Number 158:
+!!!!World Info!!!!
+Name: Marty | Size: S | Jungle side: L | Code: 0.7222
+
+!!!!Aether/Shimmer Location!!!!
+3421.5672 West
+
+----
+
+Number 159:
+!!!!World Info!!!!
+Name: Marty | Size: M | Jungle side: R | Code: 0.7222
+
+!!!!Aether/Shimmer Location!!!!
+5719.9776 East
+
+----
+
+Number 160:
+!!!!World Info!!!!
+Name: Marty | Size: M | Jungle side: L | Code: 0.7222
+
+!!!!Aether/Shimmer Location!!!!
+5272.0224 West
+
+----
+
+Number 161:
+!!!!World Info!!!!
+Name: Marty | Size: L | Jungle side: R | Code: 0.7222
+
+!!!!Aether/Shimmer Location!!!!
+7597.7456 East
+
+----
+
+Number 162:
+!!!!World Info!!!!
+Name: Marty | Size: L | Jungle side: L | Code: 0.7222
+
+!!!!Aether/Shimmer Location!!!!
+6954.2544 West
+
+----
+
+Number 163:
+!!!!World Info!!!!
+Name: Brandon | Size: S | Jungle side: R | Code: 0.75
+
+!!!!Aether/Shimmer Location!!!!
+3669.0 East
+
+----
+
+Number 164:
+!!!!World Info!!!!
+Name: Brandon | Size: S | Jungle side: L | Code: 0.75
+
+!!!!Aether/Shimmer Location!!!!
+3407.0 West
+
+----
+
+Number 165:
+!!!!World Info!!!!
+Name: Brandon | Size: M | Jungle side: R | Code: 0.75
+
+!!!!Aether/Shimmer Location!!!!
+5748.0 East
+
+----
+
+Number 166:
+!!!!World Info!!!!
+Name: Brandon | Size: M | Jungle side: L | Code: 0.75
+
+!!!!Aether/Shimmer Location!!!!
+5244.0 West
+
+----
+
+Number 167:
+!!!!World Info!!!!
+Name: Brandon | Size: L | Jungle side: R | Code: 0.75
+
+!!!!Aether/Shimmer Location!!!!
+7638.0 East
+
+----
+
+Number 168:
+!!!!World Info!!!!
+Name: Brandon | Size: L | Jungle side: L | Code: 0.75
+
+!!!!Aether/Shimmer Location!!!!
+6914.0 West
+
+----
+
+Number 169:
+!!!!World Info!!!!
+Name: Zach | Size: S | Jungle side: R | Code: 0.7778
+
+!!!!Aether/Shimmer Location!!!!
+3683.5672 East
+
+----
+
+Number 170:
+!!!!World Info!!!!
+Name: Zach | Size: S | Jungle side: L | Code: 0.7778
+
+!!!!Aether/Shimmer Location!!!!
+3392.4328 West
+
+----
+
+Number 171:
+!!!!World Info!!!!
+Name: Zach | Size: M | Jungle side: R | Code: 0.7778
+
+!!!!Aether/Shimmer Location!!!!
+5776.0224 East
+
+----
+
+Number 172:
+!!!!World Info!!!!
+Name: Zach | Size: M | Jungle side: L | Code: 0.7778
+
+!!!!Aether/Shimmer Location!!!!
+5215.9776 West
+
+----
+
+Number 173:
+!!!!World Info!!!!
+Name: Zach | Size: L | Jungle side: R | Code: 0.7778
+
+!!!!Aether/Shimmer Location!!!!
+7678.2544 East
+
+----
+
+Number 174:
+!!!!World Info!!!!
+Name: Zach | Size: L | Jungle side: L | Code: 0.7778
+
+!!!!Aether/Shimmer Location!!!!
+6873.7456 West
+
+----
+
+Number 175:
+!!!!World Info!!!!
+Name: Jeff | Size: S | Jungle side: R | Code: 0.8056
+
+!!!!Aether/Shimmer Location!!!!
+3698.1344 East
+
+----
+
+Number 176:
+!!!!World Info!!!!
+Name: Jeff | Size: S | Jungle side: L | Code: 0.8056
+
+!!!!Aether/Shimmer Location!!!!
+3377.8656 West
+
+----
+
+Number 177:
+!!!!World Info!!!!
+Name: Jeff | Size: M | Jungle side: R | Code: 0.8056
+
+!!!!Aether/Shimmer Location!!!!
+5804.0448 East
+
+----
+
+Number 178:
+!!!!World Info!!!!
+Name: Jeff | Size: M | Jungle side: L | Code: 0.8056
+
+!!!!Aether/Shimmer Location!!!!
+5187.9552 West
+
+----
+
+Number 179:
+!!!!World Info!!!!
+Name: Jeff | Size: L | Jungle side: R | Code: 0.8056
+
+!!!!Aether/Shimmer Location!!!!
+7718.5088 East
+
+----
+
+Number 180:
+!!!!World Info!!!!
+Name: Jeff | Size: L | Jungle side: L | Code: 0.8056
+
+!!!!Aether/Shimmer Location!!!!
+6833.4912 West
+
+----
+
+Number 181:
+!!!!World Info!!!!
+Name: Daniel | Size: S | Jungle side: R | Code: 0.8333
+
+!!!!Aether/Shimmer Location!!!!
+3712.6492 East
+
+----
+
+Number 182:
+!!!!World Info!!!!
+Name: Daniel | Size: S | Jungle side: L | Code: 0.8333
+
+!!!!Aether/Shimmer Location!!!!
+3363.3508 West
+
+----
+
+Number 183:
+!!!!World Info!!!!
+Name: Daniel | Size: M | Jungle side: R | Code: 0.8333
+
+!!!!Aether/Shimmer Location!!!!
+5831.9664 East
+
+----
+
+Number 184:
+!!!!World Info!!!!
+Name: Daniel | Size: M | Jungle side: L | Code: 0.8333
+
+!!!!Aether/Shimmer Location!!!!
+5160.0336 West
+
+----
+
+Number 185:
+!!!!World Info!!!!
+Name: Daniel | Size: L | Jungle side: R | Code: 0.8333
+
+!!!!Aether/Shimmer Location!!!!
+7758.6184 East
+
+----
+
+Number 186:
+!!!!World Info!!!!
+Name: Daniel | Size: L | Jungle side: L | Code: 0.8333
+
+!!!!Aether/Shimmer Location!!!!
+6793.3816 West
+
+----
+
+Number 187:
+!!!!World Info!!!!
+Name: Trent | Size: S | Jungle side: R | Code: 0.8611
+
+!!!!Aether/Shimmer Location!!!!
+3727.2164 East
+
+----
+
+Number 188:
+!!!!World Info!!!!
+Name: Trent | Size: S | Jungle side: L | Code: 0.8611
+
+!!!!Aether/Shimmer Location!!!!
+3348.7836 West
+
+----
+
+Number 189:
+!!!!World Info!!!!
+Name: Trent | Size: M | Jungle side: R | Code: 0.8611
+
+!!!!Aether/Shimmer Location!!!!
+5859.9888 East
+
+----
+
+Number 190:
+!!!!World Info!!!!
+Name: Trent | Size: M | Jungle side: L | Code: 0.8611
+
+!!!!Aether/Shimmer Location!!!!
+5132.0112 West
+
+----
+
+Number 191:
+!!!!World Info!!!!
+Name: Trent | Size: L | Jungle side: R | Code: 0.8611
+
+!!!!Aether/Shimmer Location!!!!
+7798.8728 East
+
+----
+
+Number 192:
+!!!!World Info!!!!
+Name: Trent | Size: L | Jungle side: L | Code: 0.8611
+
+!!!!Aether/Shimmer Location!!!!
+6753.1272 West
+
+----
+
+Number 193:
+!!!!World Info!!!!
+Name: Kevin | Size: S | Jungle side: R | Code: 0.8889
+
+!!!!Aether/Shimmer Location!!!!
+3741.7836 East
+
+----
+
+Number 194:
+!!!!World Info!!!!
+Name: Kevin | Size: S | Jungle side: L | Code: 0.8889
+
+!!!!Aether/Shimmer Location!!!!
+3334.2164 West
+
+----
+
+Number 195:
+!!!!World Info!!!!
+Name: Kevin | Size: M | Jungle side: R | Code: 0.8889
+
+!!!!Aether/Shimmer Location!!!!
+5888.0112 East
+
+----
+
+Number 196:
+!!!!World Info!!!!
+Name: Kevin | Size: M | Jungle side: L | Code: 0.8889
+
+!!!!Aether/Shimmer Location!!!!
+5103.9888 West
+
+----
+
+Number 197:
+!!!!World Info!!!!
+Name: Kevin | Size: L | Jungle side: R | Code: 0.8889
+
+!!!!Aether/Shimmer Location!!!!
+7839.1272 East
+
+----
+
+Number 198:
+!!!!World Info!!!!
+Name: Kevin | Size: L | Jungle side: L | Code: 0.8889
+
+!!!!Aether/Shimmer Location!!!!
+6712.8728 West
+
+----
+
+Number 199:
+!!!!World Info!!!!
+Name: Brian | Size: S | Jungle side: R | Code: 0.9167
+
+!!!!Aether/Shimmer Location!!!!
+3756.3508 East
+
+----
+
+Number 200:
+!!!!World Info!!!!
+Name: Brian | Size: S | Jungle side: L | Code: 0.9167
+
+!!!!Aether/Shimmer Location!!!!
+3319.6492 West
+
+----
+
+Number 201:
+!!!!World Info!!!!
+Name: Brian | Size: M | Jungle side: R | Code: 0.9167
+
+!!!!Aether/Shimmer Location!!!!
+5916.0336 East
+
+----
+
+Number 202:
+!!!!World Info!!!!
+Name: Brian | Size: M | Jungle side: L | Code: 0.9167
+
+!!!!Aether/Shimmer Location!!!!
+5075.9664 West
+
+----
+
+Number 203:
+!!!!World Info!!!!
+Name: Brian | Size: L | Jungle side: R | Code: 0.9167
+
+!!!!Aether/Shimmer Location!!!!
+7879.3816 East
+
+----
+
+Number 204:
+!!!!World Info!!!!
+Name: Brian | Size: L | Jungle side: L | Code: 0.9167
+
+!!!!Aether/Shimmer Location!!!!
+6672.6184 West
+
+----
+
+Number 205:
+!!!!World Info!!!!
+Name: Colin | Size: S | Jungle side: R | Code: 0.9444
+
+!!!!Aether/Shimmer Location!!!!
+3770.8656 East
+
+----
+
+Number 206:
+!!!!World Info!!!!
+Name: Colin | Size: S | Jungle side: L | Code: 0.9444
+
+!!!!Aether/Shimmer Location!!!!
+3305.1344 West
+
+----
+
+Number 207:
+!!!!World Info!!!!
+Name: Colin | Size: M | Jungle side: R | Code: 0.9444
+
+!!!!Aether/Shimmer Location!!!!
+5943.9552 East
+
+----
+
+Number 208:
+!!!!World Info!!!!
+Name: Colin | Size: M | Jungle side: L | Code: 0.9444
+
+!!!!Aether/Shimmer Location!!!!
+5048.0448 West
+
+----
+
+Number 209:
+!!!!World Info!!!!
+Name: Colin | Size: L | Jungle side: R | Code: 0.9444
+
+!!!!Aether/Shimmer Location!!!!
+7919.4912 East
+
+----
+
+Number 210:
+!!!!World Info!!!!
+Name: Colin | Size: L | Jungle side: L | Code: 0.9444
+
+!!!!Aether/Shimmer Location!!!!
+6632.5088 West
+
+----
+
+Number 211:
+!!!!World Info!!!!
+Name: Jan | Size: S | Jungle side: R | Code: 0.9722
+
+!!!!Aether/Shimmer Location!!!!
+3785.4328 East
+
+----
+
+Number 212:
+!!!!World Info!!!!
+Name: Jan | Size: S | Jungle side: L | Code: 0.9722
+
+!!!!Aether/Shimmer Location!!!!
+3290.5672 West
+
+----
+
+Number 213:
+!!!!World Info!!!!
+Name: Jan | Size: M | Jungle side: R | Code: 0.9722
+
+!!!!Aether/Shimmer Location!!!!
+5971.9776 East
+
+----
+
+Number 214:
+!!!!World Info!!!!
+Name: Jan | Size: M | Jungle side: L | Code: 0.9722
+
+!!!!Aether/Shimmer Location!!!!
+5020.0224 West
+
+----
+
+Number 215:
+!!!!World Info!!!!
+Name: Jan | Size: L | Jungle side: R | Code: 0.9722
+
+!!!!Aether/Shimmer Location!!!!
+7959.7456 East
+
+----
+
+Number 216:
+!!!!World Info!!!!
+Name: Jan | Size: L | Jungle side: L | Code: 0.9722
+
+!!!!Aether/Shimmer Location!!!!
+6592.2544 West
+
+----
